@@ -7,10 +7,11 @@
 
 
 
-![alt 微信公众号二维码](http://47.95.206.149/pic/gongzhonghao.jpg)
+![alt 扫码关注公众号](http://47.95.206.149/pic/gongzhonghao.jpg)
+
 
 ## ⚡ QQ群号：908039387 
 
 
-![alt QQ群二维码](http://47.95.206.149/pic/1608042636230.png)
+![alt 扫码加入QQ群](http://47.95.206.149/pic/1608042636230.png)
 
